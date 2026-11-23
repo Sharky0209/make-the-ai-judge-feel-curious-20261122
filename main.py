@@ -2,7 +2,7 @@
 import os
 import sys
 
-TEXT = "An atlas lies open to the sea's edge. In the margin, a small door has been drawn. Wet sand lies beneath it. Who came through?"
+TEXT = "A postcard arrived from a street missing from every map. It shows its sender at the postbox. Its postmark bears tomorrow's date."
 
 def main() -> int:
     output_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
